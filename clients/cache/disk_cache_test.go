@@ -2,7 +2,7 @@ package cache
 
 import (
 	"fmt"
-	"github.com/nacos-group/nacos-sdk-go/v2/util"
+	"github.com/Darr-en1/nacos-sdk-go/util"
 	"math/rand"
 	"os"
 	"strconv"
@@ -10,7 +10,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/nacos-group/nacos-sdk-go/v2/common/file"
+	"github.com/Darr-en1/nacos-sdk-go/common/file"
 )
 
 var (

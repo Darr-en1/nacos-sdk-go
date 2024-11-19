@@ -18,12 +18,12 @@ package main
 
 import (
 	"fmt"
-	"github.com/nacos-group/nacos-sdk-go/v2/clients/config_client"
-	"github.com/nacos-group/nacos-sdk-go/v2/clients/nacos_client"
-	"github.com/nacos-group/nacos-sdk-go/v2/common/constant"
-	"github.com/nacos-group/nacos-sdk-go/v2/common/http_agent"
-	"github.com/nacos-group/nacos-sdk-go/v2/common/logger"
-	"github.com/nacos-group/nacos-sdk-go/v2/vo"
+	"github.com/Darr-en1/nacos-sdk-go/clients/config_client"
+	"github.com/Darr-en1/nacos-sdk-go/clients/nacos_client"
+	"github.com/Darr-en1/nacos-sdk-go/common/constant"
+	"github.com/Darr-en1/nacos-sdk-go/common/http_agent"
+	"github.com/Darr-en1/nacos-sdk-go/common/logger"
+	"github.com/Darr-en1/nacos-sdk-go/vo"
 	"io/ioutil"
 	"os"
 	"path"

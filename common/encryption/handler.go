@@ -18,10 +18,10 @@ package encryption
 
 import (
 	"fmt"
+	"github.com/Darr-en1/nacos-sdk-go/common/constant"
+	"github.com/Darr-en1/nacos-sdk-go/common/logger"
 	"github.com/alibabacloud-go/tea/tea"
 	dkms_api "github.com/aliyun/alibabacloud-dkms-gcs-go-sdk/openapi"
-	"github.com/nacos-group/nacos-sdk-go/v2/common/constant"
-	"github.com/nacos-group/nacos-sdk-go/v2/common/logger"
 	"github.com/pkg/errors"
 	"strings"
 )

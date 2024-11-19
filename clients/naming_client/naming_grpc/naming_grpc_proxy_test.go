@@ -1,6 +1,6 @@
 package naming_grpc
 
-import "github.com/nacos-group/nacos-sdk-go/v2/model"
+import "github.com/Darr-en1/nacos-sdk-go/model"
 
 type MockNamingGrpc struct {
 }

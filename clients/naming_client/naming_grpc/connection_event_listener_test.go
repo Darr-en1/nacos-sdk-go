@@ -3,9 +3,9 @@ package naming_grpc
 import (
 	"testing"
 
+	"github.com/Darr-en1/nacos-sdk-go/clients/naming_client/naming_proxy"
+	"github.com/Darr-en1/nacos-sdk-go/util"
 	"github.com/golang/mock/gomock"
-	"github.com/nacos-group/nacos-sdk-go/v2/clients/naming_client/naming_proxy"
-	"github.com/nacos-group/nacos-sdk-go/v2/util"
 )
 
 func TestRedoSubscribe(t *testing.T) {

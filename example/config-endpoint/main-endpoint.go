@@ -20,9 +20,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/nacos-group/nacos-sdk-go/v2/clients"
-	"github.com/nacos-group/nacos-sdk-go/v2/common/constant"
-	"github.com/nacos-group/nacos-sdk-go/v2/vo"
+	"github.com/Darr-en1/nacos-sdk-go/clients"
+	"github.com/Darr-en1/nacos-sdk-go/common/constant"
+	"github.com/Darr-en1/nacos-sdk-go/vo"
 )
 
 func main() {

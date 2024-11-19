@@ -18,8 +18,8 @@ package encryption
 
 import (
 	"fmt"
-	"github.com/nacos-group/nacos-sdk-go/v2/common/constant"
-	inner_encoding "github.com/nacos-group/nacos-sdk-go/v2/common/encoding"
+	"github.com/Darr-en1/nacos-sdk-go/common/constant"
+	inner_encoding "github.com/Darr-en1/nacos-sdk-go/common/encoding"
 	"strings"
 )
 

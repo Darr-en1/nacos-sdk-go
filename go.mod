@@ -1,6 +1,7 @@
-module github.com/nacos-group/nacos-sdk-go/v2
+module github.com/Darr-en1/nacos-sdk-go
 
 go 1.18
+
 
 require (
 	github.com/alibabacloud-go/tea v1.1.17

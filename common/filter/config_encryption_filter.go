@@ -17,8 +17,8 @@
 package filter
 
 import (
-	nacos_inner_encryption "github.com/nacos-group/nacos-sdk-go/v2/common/encryption"
-	"github.com/nacos-group/nacos-sdk-go/v2/vo"
+	nacos_inner_encryption "github.com/Darr-en1/nacos-sdk-go/common/encryption"
+	"github.com/Darr-en1/nacos-sdk-go/vo"
 	"github.com/pkg/errors"
 	"strings"
 )

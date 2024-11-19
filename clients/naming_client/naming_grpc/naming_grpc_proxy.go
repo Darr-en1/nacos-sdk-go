@@ -20,17 +20,17 @@ import (
 	"context"
 	"time"
 
-	"github.com/nacos-group/nacos-sdk-go/v2/clients/naming_client/naming_cache"
-	"github.com/nacos-group/nacos-sdk-go/v2/common/constant"
-	"github.com/nacos-group/nacos-sdk-go/v2/common/logger"
-	"github.com/nacos-group/nacos-sdk-go/v2/common/monitor"
-	"github.com/nacos-group/nacos-sdk-go/v2/common/nacos_server"
-	"github.com/nacos-group/nacos-sdk-go/v2/common/remote/rpc"
-	"github.com/nacos-group/nacos-sdk-go/v2/common/remote/rpc/rpc_request"
-	"github.com/nacos-group/nacos-sdk-go/v2/common/remote/rpc/rpc_response"
-	"github.com/nacos-group/nacos-sdk-go/v2/inner/uuid"
-	"github.com/nacos-group/nacos-sdk-go/v2/model"
-	"github.com/nacos-group/nacos-sdk-go/v2/util"
+	"github.com/Darr-en1/nacos-sdk-go/clients/naming_client/naming_cache"
+	"github.com/Darr-en1/nacos-sdk-go/common/constant"
+	"github.com/Darr-en1/nacos-sdk-go/common/logger"
+	"github.com/Darr-en1/nacos-sdk-go/common/monitor"
+	"github.com/Darr-en1/nacos-sdk-go/common/nacos_server"
+	"github.com/Darr-en1/nacos-sdk-go/common/remote/rpc"
+	"github.com/Darr-en1/nacos-sdk-go/common/remote/rpc/rpc_request"
+	"github.com/Darr-en1/nacos-sdk-go/common/remote/rpc/rpc_response"
+	"github.com/Darr-en1/nacos-sdk-go/inner/uuid"
+	"github.com/Darr-en1/nacos-sdk-go/model"
+	"github.com/Darr-en1/nacos-sdk-go/util"
 )
 
 // NamingGrpcProxy ...
