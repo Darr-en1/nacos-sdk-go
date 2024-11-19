@@ -75,7 +75,7 @@ const (
 	KEY_CLUSTER                 = "cluster"
 	KEY_BEAT                    = "beat"
 	KEY_DOM                     = "dom"
-	DEFAULT_CONTEXT_PATH        = "/nacos"
+	DEFAULT_CONTEXT_PATH        = ""
 	CLIENT_VERSION              = "Nacos-Go-Client:v2.2.7"
 	REQUEST_DOMAIN_RETRY_TIME   = 3
 	SERVICE_INFO_SPLITER        = "@@"
