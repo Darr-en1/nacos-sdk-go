@@ -51,7 +51,7 @@ const (
 	KEY_TOKEN_TTL               = "tokenTtl"
 	KEY_GLOBAL_ADMIN            = "globalAdmin"
 	KEY_TOKEN_REFRESH_WINDOW    = "tokenRefreshWindow"
-	WEB_CONTEXT                 = "/nacos"
+	WEB_CONTEXT                 = ""
 	CONFIG_BASE_PATH            = "/v1/cs"
 	CONFIG_PATH                 = CONFIG_BASE_PATH + "/configs"
 	CONFIG_AGG_PATH             = "/datum.do"
