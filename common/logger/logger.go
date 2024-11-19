@@ -24,6 +24,7 @@ import (
 	"github.com/Darr-en1/nacos-sdk-go/common/constant"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
+	lumberjack "gopkg.in/natefinch/lumberjack.v2"
 )
 
 var (
